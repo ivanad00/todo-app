@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+Key features:
+Create tasks, sub-tasks, and add comments.
+Make to-do lists and notes.
+Add reminders and events in Calendar.
+Set start and end-date to define task deadlines.
+Add time estimates to make teams accountable.
+Time Tracking.
